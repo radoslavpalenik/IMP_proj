@@ -1,5 +1,5 @@
 # IMP_proj
-## Projekt na predmet IMP* v akad. roku 2020/21
+## Projekt na predmet IMP v akad. roku 2020/21
 ### Hodnotenie
 14/14 b.
 ### Zadanie
